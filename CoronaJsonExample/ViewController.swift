@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     var countryArr = [String]()
     var personalArr = [String]()
     var areaArr = [String]()
-    
+    //commit test
     var key = "6b45564450666f6d363570716e6163"
     override func viewDidLoad() {
         super.viewDidLoad()
